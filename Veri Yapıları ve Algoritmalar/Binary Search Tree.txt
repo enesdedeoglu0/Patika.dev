@@ -1,0 +1,22 @@
+
+
+    ENES DEDEOGLU   14.03.2023 15.00
+    e.dedeoglu@mekatronik.org.tr
+    Proje ismi : Veri YapIları ve Algoritmalar - Binary Search Tree Projesi
+
+
+
+Array = [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+   Root = 5 :
+   Solundakiler : [0,1,2,3,4]
+   Sağındakiler : [6,7,8,9]
+
+
+                                   5
+                               /      \
+                              3        7
+                            /   \    /   \
+                           1    4   6     9
+                          /  \            |
+                         0    2           8
