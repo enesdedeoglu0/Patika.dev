@@ -1,2 +1,2 @@
 # Patika.dev
-Patika.dev  - Projelerim 
+Patika.dev  - Projects
